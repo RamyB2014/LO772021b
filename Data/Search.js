@@ -1,0 +1,1 @@
+﻿define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/Course-Content/2-Just-Text.htm'],s:['000'],p:[['000',4]]});
